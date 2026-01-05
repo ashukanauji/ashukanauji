@@ -1,5 +1,25 @@
 # 💫 About Me:
-I am currently working on various projects in the deep learning for the multiple dataset for the brain tumor image segmentation as well as I am working on some full stack projects as well.<br>I am a currently learning GenAI.<br>I love to collaborate on the AI/ML related project works.<br> 
+I’m an MTech Research Scholar in Computer Science and Engineering at NIT Rourkela, working at the intersection of AI/ML, deep learning, and practical software systems. My primary research focus is deep learning for medical image analysis, with an emphasis on brain tumor image segmentation across multiple datasets. I enjoy translating research ideas into reliable, reproducible code and building tools that extend beyond a single experiment.
+
+Alongside my research work, I develop full-stack applications to support data workflows, experimentation, and deployment. I’m currently expanding my expertise in Generative AI, focusing on modern architectures, efficient training strategies, and responsible use in real-world systems. I value clean code, clear documentation, and collaborative problem-solving, and I actively seek opportunities to learn from and contribute to both academic and industry-driven projects.
+
+Key skills & technologies
+
+Deep Learning (CNNs, segmentation models)
+
+Medical Image Analysis
+
+Machine Learning & Model Evaluation
+
+Python, PyTorch
+
+Data Processing & Visualization
+
+Full-Stack Development
+
+APIs and Backend Services
+
+I’m open to collaborating on AI/ML research and applied engineering projects—feel free to reach out via my GitHub profile to connect and discuss ideas. 
 
 
 ## 🌐 Socials:
